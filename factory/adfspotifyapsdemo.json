@@ -1,0 +1,15 @@
+{
+	"name": "adfspotifyapsdemo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bbf57966-c625-4f73-a9a5-c6bb102412e4",
+		"tenantId": "cc8005bd-3085-4ea4-b344-1909f4827e1a"
+	}
+}
